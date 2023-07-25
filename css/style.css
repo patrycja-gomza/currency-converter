@@ -14,4 +14,8 @@ html {
     font-family: 'Rubik', sans-serif;
     padding: 10px 20px;
     margin: 0 auto;
+    background-image: url("../images/Background1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top center;
 }
