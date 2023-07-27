@@ -7,15 +7,3 @@ html {
 ::before {
     box-sizing: inherit;
 }
-
-.body {
-    width: 100%;
-    max-width: 650px;
-    font-family: 'Rubik', sans-serif;
-    padding: 10px 20px;
-    margin: 0 auto;
-    background-image: url("../images/Background1.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: top center;
-}
