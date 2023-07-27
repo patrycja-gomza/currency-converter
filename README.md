@@ -1,5 +1,5 @@
 # Currency converter by Patrycja Gomza
-![gif](https://github.com/patrycja-gomza/currency-converter/blob/main/gif/Animation.gif?raw=true)
+![gif](https://github.com/patrycja-gomza/currency-converter/blob/main/gif/Animation2.gif?raw=true)
 
 ## Demo
 https://patrycja-gomza.github.io/currency-converter/
