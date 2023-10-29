@@ -12,8 +12,13 @@ The subject of this page is a currency converter. In the center of the page is t
 After you fill the form, click the "Convert" button to get the amount in PLN.
 ## Technologies
 Project is created with:
-- BEM
+- HTML / CSS / JavaScript
+- Block-Element-Modifier (BEM) convention
+- Normalize.css
+- Flexbox
+- Event Listeners
 - JavaScript ES6+ Features
+
 ## Status
 The site is dynamically growing, along with the new front-end programming skills I'm learning.
 ## Inspiration
